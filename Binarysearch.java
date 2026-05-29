@@ -1,3 +1,7 @@
+//BINARY SEARCH
+// searching the target element in sorted array
+
+
 public class Binarysearch{
     public static void main(String[] args){
 
