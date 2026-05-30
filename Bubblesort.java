@@ -1,3 +1,5 @@
+//BUBBLE SORT
+//arrange the elemments in smaller to biggest OR Bigger to smallest using this sorting method
 public class Bubblesort {
     public static void main(String[] args){
        int[] array = {10,5,6,7,8,9};  
