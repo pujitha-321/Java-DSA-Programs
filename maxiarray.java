@@ -1,3 +1,4 @@
+// TO FIND MAXIMUM ELEMENT IN ARRAY
 public class maxiarray {
     public static void main(String[] args){
       int[] arr = {10,20,30,7,90,50};
