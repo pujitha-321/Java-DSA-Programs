@@ -1,4 +1,4 @@
-
+//TO FIND FIBINOCCI SERIES OF 'N' NUMBER
 import java.util.Scanner;
 public class fibinocci {
     public static void main(String[] args){
