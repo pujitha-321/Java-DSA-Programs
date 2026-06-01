@@ -1,3 +1,4 @@
+//TO FIND NUMBER OF OCCURENCES OF A GIVEN NUMBER
 public class occurences {
     public static void main(String[] args){
    // to find number of occurences in a number
