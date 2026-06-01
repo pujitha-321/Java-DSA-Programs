@@ -1,3 +1,4 @@
+// THESE ARE THE 3 SIMPLE JAVA PROGRAMS 
 class simpleprograms{
 public static void main(String[] args){
   
