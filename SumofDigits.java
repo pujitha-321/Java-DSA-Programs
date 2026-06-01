@@ -1,3 +1,4 @@
+// LOGIC TO CALCULATE SUM OF THE GIVEN NUMBER
 class SumofDigits{ 
     public static void main(String[] args){
       int num = 123;
