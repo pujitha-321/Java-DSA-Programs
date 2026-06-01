@@ -1,3 +1,4 @@
+//TO CHECK IF A CHARACTER IS CAPITAL OR SAMLL
 class character{
 public static void main(String[] args){
 
