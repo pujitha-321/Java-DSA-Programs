@@ -1,15 +1,21 @@
+// TO PRINT PATTERNS
 public class patterns{
     public static void main(String[] args){
     int n = 5;
-    /*for(int i=1;i<=n;i++){
+   // To ****
+         ****
+         ****
+        for(int i=1;i<=n;i++){
       for(int j=1;j<=n;j++){
         System.out.print("*");
 
       }
       System.out.println();
     }
-  }
-}*/
+  
+// TO  PRINT *
+             * *
+             * * *
   for(int i=1;i<=n;i++){
     for(int j=1;j<=i;j++){
       System.out.print("*");
@@ -18,9 +24,9 @@ public class patterns{
 
 
   }
-}
-}
-  /*int i;
+
+//TO PRINT ANOTHER PATTERNN
+  int i;
   for( i=1;i<=n;i++){
      for(int j=1;j<=(n-i+1);j++){
      System.out.print("*");
@@ -29,8 +35,8 @@ public class patterns{
 
 
   }
-*/
-/*for(int i=1;i<=n;i++){
+// ANOTHER PATTERN
+for(int i=1;i<=n;i++){
     int spaces=i-1;
     for(int k=1;k<=spaces;k++){
       System.out.print(" ");
@@ -41,9 +47,9 @@ public class patterns{
 
     }
     System.out.println();
-    */
-    //Numerical patternn
-    /*for(int i=1;i<=5;i++){
+}
+    //NUMERICAL PATTERN
+    for(int i=1;i<=5;i++){
       
        for(int j=1;j<=i;j++){
         System.out.print(j+" ");
@@ -66,7 +72,7 @@ public class patterns{
     }
   
     }
-*/
+
 
       
 
