@@ -6,7 +6,7 @@ int number;
 Scanner sc = new Scanner(System.in);
 System.out.print("Enter the number : ");
 number = sc.nextInt();
-if(number%4 == 0){
+if(number%4 == 0 && number%100!=0){
     System.out.println("It is a leap Year");
 
 }
