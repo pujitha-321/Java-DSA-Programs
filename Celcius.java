@@ -12,14 +12,15 @@ public class Celcius {
      fahrenheit = (celcius*(9.0/5.0))+32;
      System.out.println("The Fahrenheit temparature : "+ fahrenheit);
 
-
-
-
-
-
-
-
-
     }
     
 }
+
+
+
+
+
+
+    
+    
+
