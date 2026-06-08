@@ -1,4 +1,5 @@
-class calculator{
+// PROGRAM FOR GRADE CALCULATOR
+class gradecalculator{
 public static void main(String[] args){
     //Grade CAlculator
      int marks;
