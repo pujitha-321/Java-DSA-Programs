@@ -1,3 +1,5 @@
+// TO PRINT REVERSE OF GIVEN ARRAY
+
 public class reversearray {
     
     public static void main(String[] args) {
