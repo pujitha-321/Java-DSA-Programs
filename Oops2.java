@@ -1,3 +1,4 @@
+//THIS IS A SECOND PROGRAM USING BASIC OOPS  CONCEPT
 public class Oops2 {
     public static void main(String[] args){
       CSE student1 = new CSE();
