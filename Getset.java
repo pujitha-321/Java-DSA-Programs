@@ -1,3 +1,4 @@
+//THIS IS PROGRAM USING GET AND SET ATTRIBUTES
 public class Getset {
     public static void main(String[] args){
 
