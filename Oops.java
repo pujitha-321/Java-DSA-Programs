@@ -1,3 +1,5 @@
+//THIS IS MY BASIC JAVA PROGRAM USING OOPS CONCEPTS
+//TO PRINT STRING NAME
 class Oops{
     public static void main(String[] args){
      ECE student1 = new ECE();
