@@ -1,4 +1,4 @@
-
+//THIS IS THE PROGRAM TO CHECK HOW MANY CHARACTERS THAT STRING HAVE
     import java.util.Scanner;
 public class charcheck{
     public static void main(String[] args){
