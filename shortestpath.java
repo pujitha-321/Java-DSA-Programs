@@ -1,3 +1,4 @@
+//TO FIND THE STORTEST PATH OR DISTANCE 
 public class shortestpath {
     public static void main(String[] args){
      String str = "WESNNEEWW";
