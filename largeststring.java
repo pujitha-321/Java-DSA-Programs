@@ -1,3 +1,4 @@
+//TO FIND THE LARGEST STRING IN THE GIVIEN STRING ARRAY
 class largeststring{
     public static void main(String[] args){
         String[] names = {"Pujithaa","Vanitha","Rani"};
