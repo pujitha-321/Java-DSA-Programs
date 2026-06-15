@@ -1,3 +1,4 @@
+//THIS IS  THE PROGRAM TO CONERT  LOWERCASE STRING TO UPPERCASE STRING
 public class convertlower {
     public static void main(String[] args){
         String lowercase = "poojitha";
