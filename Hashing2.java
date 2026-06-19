@@ -1,3 +1,4 @@
+//THESE ARE THE HASHING  METHODS
 import java.util.*;
 class Hashing2{
     public static void main(String[] args){
